@@ -59,7 +59,4 @@ SmartContractsHub/
 
 ## 📚 About the Project
 
-This repository is part of a dedicated learning path towards becoming a core contributor to decentralized ecosystems. Each contract represents a deep dive into specific blockchain mechanics, from consensus logic to state management and security auditing.
-
----
 *Developed with a focus on Security, Optimization, and Transparency by Dpk376*
