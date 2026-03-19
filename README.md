@@ -1,17 +1,16 @@
-# ⛓️ Blockchain-main: Advanced Smart Contract Suite
+# ⛓️ SmartContractsHub: Advanced Smart Contract Suite
 
 [![Solidity](https://img.shields.io/badge/Solidity-%5E0.8.20-blue?style=for-the-badge&logo=solidity)](https://soliditylang.org/)
 [![Hardhat](https://img.shields.io/badge/Hardhat-Development_Environment-yellow?style=for-the-badge&logo=hardhat)](https://hardhat.org/)
 
-
-A professionally organized collection of smart contracts implementing various DeFi, Governance, and Supply Chain protocols. 
+A professionally organized collection of smart contracts implementing various DeFi, Governance, and Supply Chain protocols. This repository serves as a showcase of clean code, security best practices, and gas-optimized Solidity development.
 
 ## 🏗️ Project Structure
 
-The repository has been restructured to follow industry standards for scalable blockchain applications:
+The repository has been structured to follow industry standards for scalable blockchain applications:
 
 ```bash
-Blockchain-main/
+SmartContractsHub/
 ├── contracts/          # Core Solidity smart contracts
 │   ├── Auction.sol     # Secure Pull-Payment Auction protocol
 │   ├── Voting.sol      # Advanced Governance with Quorum & Voting Rights
@@ -40,8 +39,8 @@ Blockchain-main/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dpk376/Blockchain.git
-   cd Blockchain-main
+   git clone https://github.com/Dpk376/SmartContractsHub.git
+   cd SmartContractsHub
    ```
 2. Install dependencies (Hardhat & OpenZeppelin):
    ```bash
@@ -58,5 +57,9 @@ Blockchain-main/
   npx hardhat test
   ```
 
+## 📚 About the Project
 
+This repository is part of a dedicated learning path towards becoming a core contributor to decentralized ecosystems. Each contract represents a deep dive into specific blockchain mechanics, from consensus logic to state management and security auditing.
+
+---
 *Developed with a focus on Security, Optimization, and Transparency by Dpk376*
